@@ -3,7 +3,7 @@ This repository contains a re-implementation of Alibaba Group's paper "AntMan: D
 Although there is the [open source code](https://github.com/alibaba/GPU-scheduler-for-deep-learning/), I encountered some errors when compiling it. So I download tensorflow v1.15.5 and then replace some files which alibaba has modified. And then it works! Therefore I create a new repository to record this.
 
 # How to compile it?
-You can refer to the tensorflow [website](https://www.tensorflow.org/guide/profiler#trace_viewer) to compile it. 
+You can refer to the tensorflow [website](https://www.tensorflow.org/install/source?hl=zh-cn) to compile it. 
 This is my steps.
 ```linux
 # uninstall your tensorflow
